@@ -1,0 +1,23 @@
+source,relation,target
+Yulva,member_of,Sealers of New Londo
+Yulva,created,Remedy
+Remedy,heals,Bleeding
+Remedy,heals,Poison
+Yulva,abandoned,Sealer duty
+Yulva,returned_to,Blighttown
+Yulva,was_in,New Londo
+Estus Flask,replenishes,HP
+Estus Flask,is_linked_to,Fire Keepers
+Estus Flask,is_made_of,Crystallized Souls
+Bonfires,are_fueled_by,Bones of the Undead
+Soul Arrow,is_type_of,Elementary Sorcery
+Soul Arrow,directed_at,Physical Foes
+Soul Arrow,must_be_attuned_at,Bonfire
+Fire Keeper,tends,Bonfire
+Fire Keeper,had_removed,Tongue
+Fire Keeper,serves_as_link_between,Fire and Undead
+Artorias,was_knight_of,Gwyn
+Artorias,ventured_into,Abyss
+Artorias,fought,Manus
+Artorias,wields,Greatsword
+Greatsword,bears_trace_of,Will
